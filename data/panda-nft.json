@@ -1,0 +1,16 @@
+{
+    "name": "Panda Token",
+    "description": "Introducing the Panda NFT. Buy them for good fortune.",
+    "image": "https://kajal-singh3.github.io/kajalsingh.github.io/image/panda-1.png",
+    "external_url": "https://kajal-singh3.PandaNFT/PandaNFT",
+    "attributes": [
+      {
+        "trait_type": "Artifact",
+        "value": "panda"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Genesis"
+      }
+    ]
+  }
